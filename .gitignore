@@ -19,6 +19,10 @@ dist-ssr
 !.yarn/versions
 .pnp.*
 
+# Vercel
+.vercel
+*.vercel.json.backup
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
